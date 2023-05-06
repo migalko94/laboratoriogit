@@ -48,6 +48,7 @@ Hacemos stage y commit del README.md:
 ![Stage y commit](./content/1-8-stage-commit.png)
 
 ### **2.** Subir el repositorio a GitHub
+---
 
 *Previamente hice modificaciones en el formato del README.md*
 
@@ -67,7 +68,26 @@ Hacemos stage y commit del README.md:
 
 ![Verifico conexión correcta](./content/2-4-verificacion.png)
 
+### **3.** Hacer un commit y un push
+---
+
+- Crear un archivo en la carpeta del repositorio:
+
+![Creación archivo carpeta repo](./content/3-1-creacion-archivo.png)
+
+- Añade el archivo al staging:
+
+![Staging](./content/3-3-commit.png)
+
+- Crea un commit con un mensaje descriptivo:
+
+![Creo commit](./content/3-3-commit.png)
+
+- Sube los cambios al repositorio en GitHub:
+
+![Subo cambios GitHub](./content/3-4-subo-github-1.png)
 
 
+![Cambio subido](./content/3-4-subo-github-2.png)
 
-
+*Hago más modificaciones de formato en README.md*
