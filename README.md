@@ -91,3 +91,59 @@ Hacemos stage y commit del README.md:
 ![Cambio subido](./content/3-4-subo-github-2.png)
 
 *Hago más modificaciones de formato en README.md*
+
+**4.** Crear una rama
+***
+
+- Crea una rama nueva llamada "development":
+
+![Creo rama development](./content/4-1-creando-rama.png)
+
+- Cambia a la nueva rama:
+
+![Cambio a rama nuevat](./content/4-2-cambio-rama-development.png)
+
+- Realiza algunos cambios en el archivo que creaste:
+
+![Archivo original](./content/4-3-realizo-cambios-archivo-1.png)
+
+![Archivo cambiado](./content/4-4-realizo-cambios-archivo-2.png)
+
+- Añade y haz un commit con los cambios en la rama "development":
+
+![Staging y commit cambios rama](./content/4-5-add-commit-cambios-rama.png)
+
+- Sube los cambios a GitHub:
+
+![Subiendo cambios](./content/4-6-subo-cambios.png)
+![Subiendo cambios 2](./content/4-7-subo-cambios2.png)
+
+
+**5.** Hacer un merge
+***
+
+*La rama principal de nuestro repositorio puede ser "main" o "master" según la hayamos nombrado*
+
+- Vuelve a la rama "main":
+
+En nuestro caso, "master"
+
+![Vuelve rama master](./content/5-1-volviendo-rama-master.png)
+
+- Haz un merge de la rama "development" a la rama "main":
+
+En nuestro caso, "master"
+
+![Merge](./content/5-2-merge.png)
+
+Según hemos investigado, en este caso, introdujimos innecesariamente un mensaje commit cuando el merge era fast-forward, lo que llevó al mensaje que nos mandó Git.
+
+- Si no hay conflictos, los cambios realizados en la rama "development" se incorporarán a la rama "main" **+** - Haz un push de los cambios al repositorio en GitHub
+
+Los cambios se incorporan sin conflictos
+
+![Cambios incorporados 1](./content/5-3-incorporo-cambios.png)
+
+![Cambios incorporados 2](./content/5-4-incorporo-cambios-2.png)
+
+![Cambios incorporados 3](./content/5-5-incorporo-cambios-3.png)
