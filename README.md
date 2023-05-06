@@ -6,7 +6,7 @@
 > Aquí describo la realización de los objetivos
 
 
-### **1.** Crear un repositorio en local
+### **1. Crear un repositorio en local**
 ---
 
 - Abre tu terminal y navega hasta el directorio donde deseas crear el repositorio **+** Crea una carpeta con el nombre del repositorio:
@@ -47,7 +47,7 @@ Hacemos stage y commit del README.md:
 
 ![Stage y commit](./content/1-8-stage-commit.png)
 
-### **2.** Subir el repositorio a GitHub
+### **2. Subir el repositorio a GitHub**
 ---
 
 *Previamente hice modificaciones en el formato del README.md*
@@ -68,7 +68,7 @@ Hacemos stage y commit del README.md:
 
 ![Verifico conexión correcta](./content/2-4-verificacion.png)
 
-### **3.** Hacer un commit y un push
+### **3. Hacer un commit y un push**
 ---
 
 - Crear un archivo en la carpeta del repositorio:
@@ -92,7 +92,7 @@ Hacemos stage y commit del README.md:
 
 *Hago más modificaciones de formato en README.md*
 
-**4.** Crear una rama
+### **4. Crear una rama**
 ***
 
 - Crea una rama nueva llamada "development":
@@ -119,7 +119,7 @@ Hacemos stage y commit del README.md:
 ![Subiendo cambios 2](./content/4-7-subo-cambios2.png)
 
 
-**5.** Hacer un merge
+## **5. Hacer un merge**
 ***
 
 *La rama principal de nuestro repositorio puede ser "main" o "master" según la hayamos nombrado*
@@ -147,3 +147,7 @@ Los cambios se incorporan sin conflictos
 ![Cambios incorporados 2](./content/5-4-incorporo-cambios-2.png)
 
 ![Cambios incorporados 3](./content/5-5-incorporo-cambios-3.png)
+
+*Realizamos los últimos retoques en el formato del README.md*
+
+> Fin del laboratorio
